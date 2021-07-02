@@ -11,9 +11,9 @@ This repository provides tutorial code for Data Analytics using Python. Before s
 - Linear Regression
 - Classification
 - Model Evaluation
-- Explainable AI
+- Explainable AI  
 **2. Intermediate**
 - Deep Neural Networks
 - Recurrent Neural Networks
-- Convolution Neural Networks
+- Convolution Neural Networks  
 **3. Advanced**
