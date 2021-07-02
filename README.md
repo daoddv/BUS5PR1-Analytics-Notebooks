@@ -7,7 +7,7 @@ This repository provides tutorial code for Data Analytics using Python. Before s
 
 ### Table of contents
 **1. Basics**
-- Python basic
+- Python Basics
 - Linear Regression
 - Classification
 - Model Evaluation
