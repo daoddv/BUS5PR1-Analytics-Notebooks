@@ -7,7 +7,8 @@ This repository provides tutorial code for Data Analytics using Python. Before s
 
 ### Table of contents
 **1. Basics**
-- Python Basics
+- [Basics Functions](https://github.com/daoddv/analytics-notebooks/blob/master/tutorials/01-basics/01_Basic_Functions.ipynb)
+- Basic Wrangling 
 - Linear Regression
 - Classification
 - Model Evaluation
